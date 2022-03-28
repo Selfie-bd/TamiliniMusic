@@ -50,9 +50,9 @@ Before clicking on deploy to heroku just click on fork and star just below
 # Deployments :
 
 #### Deploy To Heroku 📡
-<a href="https://heroku.com/deploy?template=https://github.com/TamilBots/TamiliniMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Selfie-bd/TamiliniMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a>
 #### Deploy To RailWay 🚄
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FTamilBots%2FTamiliniMusic-railways)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FSelfie-bd%2FTamiliniMusic-railways)
 #### Deploy On Vps 🌐
 <details>
 <summary><b>🔗 Deploy to VPS</b></summary>
@@ -60,7 +60,7 @@ Before clicking on deploy to heroku just click on fork and star just below
   
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/TamilBots/TamiliniMusic
+$ git clone https://github.com/Selfie-bd/TamiliniMusic
 $ cd TamilBots
 # Upgrade sources
 # Install All Requirements 
@@ -72,7 +72,7 @@ $ python3 -m Tamilini
 ```
 </details>
   
-Not Getting VPS Method? Contact [Support ❤](https://t.me/TamilSupport)
+Not Getting VPS Method? Contact [Support ❤](https://t.me/groupdcbots)
   
 ### GET STRING SESSION FROM REPL RUN :
 
